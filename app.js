@@ -7,7 +7,7 @@
 
 
 // Event handling, user interaction is what starts the code execution.
-
+alert('Друг я не успеваю! Нужно пару дней на доделку, спасибо за понимание!')
 var taskInput=document.getElementById("new-task");//Add a new task.
 var addButton=document.getElementsByTagName("button")[0];//first button
 var incompleteTaskHolder=document.getElementById("incompleteTasks");//ul of #incompleteTasks
